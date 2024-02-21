@@ -1,13 +1,12 @@
-# spa-universe
 
-Desafio "SPA Universe" do Explorer da Rocketseat, cujo objetivo foi a criação de uma página de exploração do universo utilizando o conceito de Single Page Application (SPA).
+SPA Universe
 
-![Desafio "SPA Universe"](./assets/spa-universe.png)
+Rocketseat Explorer's "SPA Universe" Challenge, the objective of which was to create a universe exploration page using the Single Page Application (SPA) concept.
 
-O que foi abordado nesse desafio:
+What was covered in this challenge:
 
-- Conceitos de SPA;
-- Mapeamento de rotas;
-- Assincronismo e promises;
-- Orientação a objetos;
-- Classes e muito mais.
+*SPA concepts;
+*Route mapping;
+*Asynchronism and promises;
+*Object orientation;
+*Classes and much more.
